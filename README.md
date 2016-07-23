@@ -2,7 +2,7 @@
 # 這是我個人的vim設定
 
 
-## Reference 
+## 已安裝的plugin 
 * [NERDCommenter](https://github.com/scrooloose/nerdcommenter) 快速新增/移除註解
 * [NERDTree](http://www.vim.org/scripts/script.php?script_id=1658) 
 * [acp](http://www.vim.org/scripts/script.php?script_id=1879) 文字自動補齊

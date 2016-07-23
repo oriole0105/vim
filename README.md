@@ -1,6 +1,9 @@
 
 # 這是我個人的vim設定
 
+* Author : Richard Luo
+* Email : oriole0105@gmail.com
+
 
 ## 已安裝的plugin 
 * [NERDCommenter](https://github.com/scrooloose/nerdcommenter) 快速新增/移除註解

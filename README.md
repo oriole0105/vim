@@ -1,11 +1,11 @@
 
-# 這是我個人的vim設定
+# This is my personal vim setting
 
 * Author : Richard Luo
 * Email : oriole0105@gmail.com
 
 
-## 已安裝的plugin 
+## Installed plugin 
 * [NERDCommenter](https://github.com/scrooloose/nerdcommenter) 快速新增/移除註解
 * [NERDTree](http://www.vim.org/scripts/script.php?script_id=1658) vim的檔案總管
 * [acp](http://www.vim.org/scripts/script.php?script_id=1879) 文字自動補齊
